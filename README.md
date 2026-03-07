@@ -14,11 +14,9 @@
 - [3.资源说明，处理及反馈途径和准则](#3资源说明_处理及反馈途径和准则)
     - [关于音乐和广播剧](#关于音乐和广播剧)
     - [应急措施及md5表](#应急措施及md5表)
-  - [a.Onedrive盘](#aOnedrive盘)
+  - [a.Onedrive盘（更新最快，其他均为延时分流）](#aOnedrive盘_更新最快_其他均为延时分流)
   - [b.磁力种子（欢迎大佬制其他资源的种并保种续种）](#b磁力种子_欢迎大佬制其他资源的种并保种续种)
-  - [c.自建网盘2.0](#c自建网盘2_0)
-  - [d.谷歌网盘](#d谷歌网盘)
-  - [e.百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。（20240422正式声明：后续任何资源都不会再上传至此网盘）](#e百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘)
+  - [c.百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。（20240422正式声明：后续任何资源都不会再上传至此网盘）](#c百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘)
 - [4.参考资料——考据、文献、访谈和优质感想贴](#4参考资料考据文献访谈和优质感想贴)
 - [5.特殊问题解决](#5特殊问题解决)
 - [6.bangumi维基词条](#6bangumi维基词条)
@@ -47,12 +45,16 @@
 
 都怪当初太年轻连git都不知道，否则少走114514年弯路。
 
-若哪位大佬有更好的方案请联系本人，个人联系方式见第3部分。
+~~若哪位大佬有更好的方案请联系本人，个人联系方式见第3部分。~~
 
 # 2.群组及欢迎致辞？？
 
+【没有特殊需求请勿加，有问题请前往[3.资源说明，处理及反馈途径和准则](#3资源说明_处理及反馈途径和准则)】
+
 欢迎加入[音羽建设组](https://jq.qq.com/?_wv=1027&k=50coTrX)！！(群号499680018)，本组用于ef-悠久之翼从游戏到动画到各种周边的已有档案建立和未放流或未汉化资源补全进行规划讨论。
+
 ~~，因为考虑目前平台用户贴吧占比的数量，所以暂时的推广宣传地址为[ef-a吧](https://tieba.baidu.com/f?kw=ef-a&fr=index&fp=0&ie=utf-8)~~
+
 百度贴吧什么时候死啊。
 
 无论你有何种能力，对类似事件拥有丰富经验的长者、资源收集爱好者乃至松鼠党、会做种补种或者手持各种网盘、日语赛中文、技术上手等各行菊苣，都非常欢迎，当然愿意提供idea或者仅精神支持的fans咱也来者不拒！！
@@ -140,6 +142,19 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 打包的资源理论上基本不会出问题，而如果压缩包有密码，**不是 ef-a 就是 终点**。
 
+### 应急措施及md5表
+
+1. 目前而言，提供了三个大的下载渠道，如果使用的那个出了问题请尝试另外两个**23.12.4注：由于秒传死亡，百度网盘可能将被本组逐渐淘汰，且用且珍惜）**。另外，网盘内压缩包全部采用rar+rr3及以上的方式进行存储，如果下载的压缩包提示损坏，请使用**winrar等高级解压软件**进行修复；若修复无效，请[核对md5列表以排查网络原因](https://github.com/Seshiria/EFmd5sum/blob/master/md5sum)
+(不会请百度)。
+2. 多数资源本组是附带提供了原放流地址或官网的，也可前往获取和反馈。
+3. 一切万策尽后，请等待本组进行测试，确实有问题的话会进行资源重传，传好后会通知。
+
+本档案楼资源的反馈（关于如何使用资源不在回复范围内，请另寻高明）唯一渠道和准则为：
+
+[确保看完5.特殊问题解决](#5特殊问题解决)以及[搜索后无相关讨论或讨论没给出解决方案](https://github.com/devil233-ui/ef_collection/issues)再进行提Issue。反馈时请明确指出 1.所属媒体（动画、游戏小说等）2.目标网盘 3.目标文件 4.目标语言 要么给出完整路径，要么截图，否则恕不处理并直接关闭ISSUE。
+
+另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是OneDrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
+
 ### 关于音乐和广播剧
 
 抓轨标准参考[天使](https://www.tsdm39.com/forum.php?mod=viewthread&tid=1136558&&fromuid=1034922)
@@ -158,20 +173,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 - [b站广播剧汉化合集](https://b23.tv/av68110461) 欢迎更多有能man加入。
 
-### 应急措施及md5表
-
-1. 目前而言，提供了三个大的下载渠道，如果使用的那个出了问题请尝试另外两个**23.12.4注：由于秒传死亡，百度网盘可能将被本组逐渐淘汰，且用且珍惜）**。另外，网盘内压缩包全部采用rar+rr3及以上的方式进行存储，如果下载的压缩包提示损坏，请使用**winrar等高级解压软件**进行修复；若修复无效，请[核对md5列表以排查网络原因](https://github.com/Seshiria/EFmd5sum/blob/master/md5sum)
-(不会请百度)。
-2. 多数资源本组是附带提供了原放流地址或官网的，也可前往获取和反馈。
-3. 一切万策尽后，请等待本组进行测试，确实有问题的话会进行资源重传，传好后会通知。
-
-本档案楼资源的反馈（关于如何使用资源不在回复范围内，请另寻高明）唯一渠道和准则为：
-
-[确保看完5.特殊问题解决](#5特殊问题解决)以及[搜索后无相关讨论或讨论没给出解决方案](https://github.com/devil233-ui/ef_collection/issues)再进行提Issue。反馈内容请明确指出哪个文件，要么给出完整文件名及所在文件夹，要么截图。
-
-另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是Onedrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
-
-## a.Onedrive盘（更新最快，其他均为延时分流）
+## a.OneDrive盘_更新最快_其他均为延时分流
 
 第一代管理者[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
@@ -213,19 +215,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c.自建网盘2_0
-
-第一代管理者[@妖梦](https://github.com/ShiinaRinne)
-
-[https://rdrct.youngmoe.com/ef-volce](https://rdrct.youngmoe.com/ef-volce)
-
-## d.谷歌网盘 
-
-第一代管理者[@妖梦](https://github.com/ShiinaRinne)
-
-[https://rdrct.youngmoe.com/ef-gdrive](https://rdrct.youngmoe.com/ef-gdrive)
-
-## e.百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
+## c.百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
 
 ~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
 
@@ -238,7 +228,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 <br>含demo相关，一般来说有硬盘版的优先下载，除非你能自行绕过光盘验证（因为本组找不到能用的补丁;PS2版本可在pc端使用小鸡模拟器等进行体验，相比原版有剧情改动，和CG的增加。）。
 
 - [游戏OP&ED](https://pan.baidu.com/s/1E0O-QPM21pj2_afhV64NPw?pwd=2rz8)
-<br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
+<br>monori movie collection vol.2的ef部分。收录五种版本，philosophy-raws压制版mkv、ANE压制版mkv(含英文字幕)、Flsonw压制版mkv、【中日字幕特效@acfun爱在缺批乐】版ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
 
 - [游戏美版（两作,含R18补丁）](https://pan.baidu.com/s/1Aw5DH1QOadpFgfaMBwwvjQ?pwd=32yo)<br>
   英文版ef是由mangagamer公司改动并翻译的，两部分别在2012年和2013年发布。这家公司同时也翻译了包括eden\*在内的许多经典作品，如有兴趣可以前往官网查看。英文版和日文版的区别大概是英文版的翻译内容和方式有所不同，情节都是一样。另外英文版的码特别薄，是可以隐约看见“内容”的那种。2019.10.17移上架steam。
@@ -317,7 +307,7 @@ b.日版BDRIP1080 <br>
 [https://pan.baidu.com/s/16XKccPbJEkDQsemsS9K2Mw](https://pan.baidu.com/s/16XKccPbJEkDQsemsS9K2Mw)
 提取码: 6k44
 
-1.  PSV版(720P mp4\_RR)<br>
+1. PSV版(720P mp4\_RR)<br>
 链接:
 [https://pan.baidu.com/s/1EIlL0cbL\_8jpPPeRJEp\_cQ](https://pan.baidu.com/s/1EIlL0cbL_8jpPPeRJEp_cQ)
 提取码: l82x
@@ -372,13 +362,13 @@ Ost + Single + Drama
 
 - [ef - a tale of melodies - ebullient future Release Notes](https://web.archive.org/web/20120716191313/http://www.aquastar-anime.net/?page=articles/article20081211) 感谢[@vcfch843875](https://github.com/vcfch843875)投稿
 
-- ~~[ef-a tale of melodies的op中的德语“诗”准确翻译](https://bbs.sumisora.net/read.php?tid=10898738) 泼辣子@ck~~
-
-- ~~[ef - a tale of melodies op中的德文解释（小白一下）翻译结束 ](https://bbs.sumisora.net/read.php?tid=10897927) wayne0111@ck~~
+- ~~[ef-a tale of melodies的op中的德语“诗”准确翻译](https://bbs.sumisora.net/read.php?tid=10898738) 泼辣子@ck~~ 如实在需要又无法进入ck，可于Archives进行获取。下同
+ 
+- ~~[ef - a tale of melodies op中的德文解释（小白一下）翻译结束 ](https://bbs.sumisora.net/read.php?tid=10897927) wayne0111@ck~~ 
 
 # 5.特殊问题解决
 
-① 遇到iso、img等镜像文件先使用winrar、7zip等解压软件尝试进行解压安装（这一步必须在全英文路径），不行就要动用`游戏原版【日文】`文件夹下的`imgdrive`挂载后进虚拟光驱安装，这个工具是经过讨论（[见此贴53楼](https://tieba.baidu.com/p/7864863006?pn=2)和[CHANGELOG.md的2024-04-19](./CHANGELOG.md)）确定下来的，如有更好的欢迎推荐。
+① 遇到iso、img等镜像文件先使用winrar、7zip等解压软件尝试进行解压安装（这一步必须在全英文路径），不行就要动用`游戏原版【日文】`文件夹下的`imgdrive`挂载后进虚拟光驱安装，这个工具是经过讨论（[见此贴53楼](https://tieba.baidu.com/p/7864863006?pn=2)和[CHANGELOG.md的2024-04-19](./CHANGELOG.md)）确定下来的，如有更好的欢迎推荐。另外，关于`[100917][minori] 天使の日曜日 “ef - a fairy tale of the two.” Pleasurable Box`，如果你已经使用镜像安装完成，且不想使用汉化版本只想使用日文原版，那么可以参考这个内容：[天使の日曜日 “ef - a fairy tale of the two.” Pleasurable Box. 破解补丁_2DFan](https://2dfan.com/downloads/31717)。
 
 ② tak、tta、ape等格式的无损音乐文件，PC端下载foobar2000（通称fb2k）并安装插件可直接播放或者转码任何格式，这个大概是目前最强大的无损食用软件；Groove Music，Windows Media Player也可作为下选。
 
@@ -396,7 +386,7 @@ Ost + Single + Drama
 
 # 6.bangumi维基词条
 
-这个比较麻烦，姑且先放着。。。你们想编辑ef词条在那个站内圈devil233就行了(鬼知道前几天处理几百个条目的我经历了什么)
+这个比较麻烦，姑且先放着……有人想编辑ef词条在那个站内圈devil233就行了(鬼知道前几天处理几百个条目的我经历了什么)
 
 # 7.更新日志
 [CHANGELOG.md](./CHANGELOG.md)
